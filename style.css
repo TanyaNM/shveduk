@@ -1,0 +1,20 @@
+h1{
+    color: rgb(224, 124, 2);
+    background-color: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    font-size: 27px;
+}
+main{
+    background-color: rgb(224, 124, 2);
+}
+body{
+    background-color: yellowgreen;
+}
+img{
+    border:1px solid black;
+    margin: 25px;
+}
